@@ -1,0 +1,33 @@
+Momentum Server logfile: momServer.log
+
+EM Model generation from "MultiPA_lib:FirstStageLayout:emModel"
+  parameterNames = list("lin","Substrate","MeshDensity")
+  parameterValues = list("0.00022","definedInState","20")
+  topLevel design name = "MultiPA_lib:cell_3:schematic"
+  instance name = "X1.em_data"
+  processID = "50882@127.0.0.1:hpeesofsim:_unique59967_327"
+  visible = TRUE
+Connected to external process by processID
+..handle = 17
+..pid = 50882@127.0.0.1:hpeesofsim:_unique59967_327
+..name = hpeesofsim
+Creating work design MultiPA_lib:FirstStageLayout:layout_hpeesofsim
+..new work design opened
+..inserting instance of MultiPA_lib:FirstStageLayout:layout
+..promoting instance pins and ports
+Successfully created the work design
+Successfully created the associated schematic of the work design
+Starting EM simulation for design: MultiPA_lib:FirstStageLayout:layout_hpeesofsim
+  Contains instance of : MultiPA_lib:FirstStageLayout:layout
+  EM setup view name   : emSetup_hpeesofsim
+  EM model design name   : MultiPA_lib:FirstStageLayout:emModel
+..disable simulation log popup
+..simulation M221010154823 started
+..simulation M221010154823 ended
+EM simulation finished successfully
+..adding new data to EM model view: Success Added simulation data.
+..deleting layout_hpeesofsim view for work design
+..deleting schematic_hpeesofsim view for work design
+..deleting emSetup_hpeesofsim view for work design
+..deleting simulation directory for work design
+..sending DONE to parent

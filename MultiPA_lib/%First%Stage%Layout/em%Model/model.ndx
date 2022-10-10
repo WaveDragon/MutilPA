@@ -1,0 +1,11 @@
+COMPONENT: em_data;
+NROFMODELS: 1;
+MODEL: RF, Layout, 0, 10, 20, 45, 0, 1;
+SUBSTRATE: definedInState;
+NROFPARAM: 1;
+PARAM: lin, 0.0, 0.0, 0.0, 42.8571e-6, 1e-9, None, -1;
+NROFSAMPLES: 2;
+SAMPLEFILE: data.001.sio;
+SAMPLE: 220e-6;
+SAMPLEFILE: data.000.sio;
+SAMPLE: 240e-6;

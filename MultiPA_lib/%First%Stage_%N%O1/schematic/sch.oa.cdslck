@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sat Oct  8 09:06:37 2022 中国标准时间
 AppIdentifier                  OA File System Design Manager
 OSType                         win32
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         E:\Desktop\MultiPA_wrk\MultiPA_lib\%First%Stage_%For%Layout\symbol\symbol.oa.cdslck
-TimeEditLocked                 Mon Oct 10 10:09:04 2022 中国标准时间
+FilePathUsedToEditLock         E:\Desktop\MultiPA_wrk\MultiPA_lib\%First%Stage_%N%O1\schematic\sch.oa.cdslck
+TimeEditLocked                 Mon Oct 10 15:52:55 2022 中国标准时间

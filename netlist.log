@@ -1,7 +1,27 @@
-; Top Design: "MultiPA_lib:FirstStage_NO3:schematic"
+; Top Design: "MultiPA_lib:cell_3:schematic"
 ; Netlisted using Hierarchy Policy: "Standard"
 
-Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="MultiPA_lib:FirstStage_NO3:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="MultiPA_lib:cell_3:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+; Library Name: MultiPA_lib
+; Cell Name: FirstStageLayout
+; View Name: emModel
+define FirstStageLayout ( P1  P2  P3  P4  P5  P6  P7  P8  ref=0 ) 
+parameters  lin=240 um 
+; MomCmpt model has node 0 as implicit reference. Ref node will be ignored and assumed to be grounded!
+em_data_name="MultiPA_lib:FirstStageLayout:emModel"
+em_data_p0="lin"
+em_data_v0=lin
+MomCmpt:em_data  P1 P2 P3 P4 P5 P6 P7 P8 \
+    name=em_data_name \
+    paramFile="" \
+    modelFile="E:/Desktop/MultiPA_wrk/MultiPA_lib/%First%Stage%Layout/em%Model/model.ndx" \
+    p0="lin" v0=lin v0_Resolution=0.001 um \
+    ModelReuse=1 \
+    ModelType="MOMMW" \
+    ExtrapolationMode="linear" \
+    EnforcePassivity=-1
+end FirstStageLayout
+
 ErSub=12.9
 SubT=75 um
 Met2T=2 um
@@ -40,94 +60,23 @@ OutputPlan:SP1_Output \
 
 #load "python","LinearCollapse"
 Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
-P15ED_DPA5V_eehemt:pa5v1  N__9 N__14 0 lg=0.15 um wg=75 um nf=2 ta=temp 
-c12:c12_3  N__17 N__13 w=45 um l=47.5 um ta=temp 
-P15ED_mlin:TL9  N__14 N__21 Layer="Double_Metal" W=12 um L=lin um 
-V_Source:SRC1  P3 0 Type="V_DC" Vdc=-0.6 V SaveCurrent=1 
-V_Source:SRC2  P4 0 Type="V_DC" Vdc=5 V SaveCurrent=1 
 aele Zin1=zin(S11,PortZ1);
-aele StabFact1=stab_fact(S);
-P15ED_mlin:TL8  N__24 N__9 Layer="Double_Metal" W=12 um L=lout um 
-aele Zin2=zin(S22,PortZ2);
-P15ED_mlin:TL2  N__43 N__46 Layer="Double_Metal" W=12 um L=ld1 um 
-P15ED_mlin:TL3  N__20 N__12 Layer="Double_Metal" W=12 um L=ld2 um 
-c12:c12_4  N__10 N__18 w=30 um l=50 um ta=temp 
-P15ED_mtee:Tee2  N__21 N__8 N__4 Layer="Double_Metal" W1=12 um W2=12 um W3=12 um 
 
-Optim:"Optim1" OptimType="random" ErrorForm="L2" MaxIters=10000 P=2 DesiredError=0.0 StatusLevel=4 FinalAnalysis="None" NormalizeGoals=yes SetBestValues=yes SaveSolns=yes SaveGoals=yes SaveOptimVars=no UpdateDataset=yes SaveNominal=no SaveAllIterations=no UseAllOptVars=yes UseAllGoals=yes SaveCurrentEF=no InitialTempControlMode=0 SANumTrialsPerIter=10 NumShootsPerIter=20 SATempControlAlpha=0.8 EnableCockpit=yes NormalizeError=yes SaveAllTrials=no UseAdvTermCriteria=no CostRelativeTol=1.0e-8 LimitOfContSmallImprovement=5 
+Optim:"Optim1" OptimType="hpVMO" ErrorForm="L2" MaxIters=2000 P=2 DesiredError=0.0 StatusLevel=4 FinalAnalysis="None" NormalizeGoals=yes SetBestValues=yes SaveSolns=yes SaveGoals=yes SaveOptimVars=no UpdateDataset=yes SaveNominal=no SaveAllIterations=no UseAllOptVars=yes UseAllGoals=yes SaveCurrentEF=no InitialTempControlMode=0 SANumTrialsPerIter=10 NumShootsPerIter=20 SATempControlAlpha=0.8 EnableCockpit=yes NormalizeError=yes SaveAllTrials=no UseAdvTermCriteria=no CostRelativeTol=1.0e-8 LimitOfContSmallImprovement=5 
 
-P15ED_mtee:Tee1  N__11 N__24 N__12 Layer="Double_Metal" W1=12 um W2=12 um W3=12 um 
-OptimGoal:OptimGoal1 Expr="dB(S(1,1))" SimInstanceName="SP1" Weight=1 \
+OptimGoal:OptimGoal1 Expr="abs(mag(Zin1)-mag(Zin2))" SimInstanceName="SP1" Weight=1 \
 IndepVar[1]="freq" \
 SpecLimitLine[1]="OptimGoal1_limit1" 
-SpecLimitLine:"OptimGoal1_limit1" Type="LessThan" Max=-15 Weight=1 \
+SpecLimitLine:"OptimGoal1_limit1" Type="LessThan" Max=0.1 Weight=1 \
 IndepVar[1]="freq" IndepMin[1]=27 GHz IndepMax[1]=31 GHz 
-aele MaxGain1=max_gain(S);
-P15ED_mlin:TL6  N__23 N__15 Layer="Double_Metal" W=12 um L=lg2 um 
-P15ED_mlin:TL7  N__28 P3 Layer="MET1" W=12 um L=lg1 um 
-
-ld1=225 tune{ 225 to 675 by 45 } opt{ 25 to 2000 }
-ld4=550 tune{ 225 to 675 by 45 } opt{ 25 to 2500 }
-Cd1=12.0229 opt{ 4 to 15 }
-Cd2=2 opt{ 0.001 to 2.25 }
-lout=80 opt{ 7 to 300 }
-ld2=350 opt{ 7 to 500 }
-ld3=300 opt{ 7 to 500 }
-P15ED_mlin:TL11  P2 N__13 Layer="MET2" W=11.4 um L=10 um 
-P15ED_mlin:TL10  N__17 N__6 Layer="MET1" W=12 um L=10 um 
-P15ED_mlin:TL18  N__25 N__6 Layer="Double_Metal" W=12 um L=ld3 um 
-P15ED_mlin:TL13  N__10 N__7 Layer="MET1" W=12 um L=10 um 
-P15ED_mlin:TL14  P1 N__18 Layer="MET2" W=11.4 um L=10 um 
-OptimGoal:OptimGoal2 Expr="dB(S(2,2))" SimInstanceName="SP1" Weight=1 \
+OptimGoal:OptimGoal2 Expr="abs(phase(Zin1)-phase(Zin2))" SimInstanceName="SP1" Weight=1 \
 IndepVar[1]="freq" \
 SpecLimitLine[1]="OptimGoal2_limit1" 
-SpecLimitLine:"OptimGoal2_limit1" Type="LessThan" Max=-15 Weight=1 \
+SpecLimitLine:"OptimGoal2_limit1" Type="LessThan" Max=0.1 Weight=1 \
 IndepVar[1]="freq" IndepMin[1]=27 GHz IndepMax[1]=31 GHz 
-OptimGoal:OptimGoal3 Expr="dB(S(2,1))" SimInstanceName="SP1" Weight=1 \
-IndepVar[1]="freq" \
-SpecLimitLine[1]="OptimGoal3_limit1" 
-SpecLimitLine:"OptimGoal3_limit1" Type="GreaterThan" Min=18 Weight=1 \
-IndepVar[1]="freq" IndepMin[1]=27 GHz IndepMax[1]=31 GHz 
-OptimGoal:OptimGoal4 Expr="mag(Zin1)" SimInstanceName="SP1" Weight=1 \
-IndepVar[1]="freq" \
-SpecLimitLine[1]="OptimGoal4_limit1" 
-SpecLimitLine:"OptimGoal4_limit1" Type="Inside" Min=49 Max=51 Weight=1 \
-IndepVar[1]="freq" IndepMin[1]=28 GHz IndepMax[1]=30 GHz 
-P15ED_mlin:TL17  N__8 N__7 Layer="Double_Metal" W=12 um L=lin2 um 
-OptimGoal:OptimGoal5 Expr="mag(Zin2)" SimInstanceName="SP1" Weight=1 \
-IndepVar[1]="freq" \
-SpecLimitLine[1]="OptimGoal5_limit1" 
-SpecLimitLine:"OptimGoal5_limit1" Type="Inside" Min=49 Max=51 Weight=1 \
-IndepVar[1]="freq" IndepMin[1]=28 GHz IndepMax[1]=30 GHz 
-P15ED_mlin:TL16  N__6 N__11 Layer="Double_Metal" W=12 um L=ld4 um 
-
-lg1=100 opt{ 25 to 300 }
-lg3=50 opt{ 25 to 200 }
-Cg1=8 opt{ 4 to 25 }
-Cg2=0.537136 opt{ 0.1 to 12 }
-lin=240 tune{ 119 to 356 by 23.7 } opt{ 27.5 to 500 }
-lin1=100 opt{ 27.5 to 300 }
-lin2=150 tune{ 21.4 to 64.2 by 4.28 } opt{ 27.5 to 300 }
-lg2=250 opt{ 25 to 300 }
-P15ED_mlin:TL15  N__7 N__26 Layer="Double_Metal" W=12 um L=lin1 um 
-rt:rt1  P4 N__45 w=12 um l=16 um ta=temp 
-Port:TermG1  P1 0 Num=1 Z=50 Ohm Noise=yes 
-Port:TermG2  P2 0 Num=2 Z=50 Ohm Noise=yes 
-P15ED_mlin:TL19  N__4 N__33 Layer="Double_Metal" W=12 um L=lg3 um 
-P15ED_mlin:TL20  N__36 N__29 Layer="MET1" W=30 um L=10 um 
-P15ED_mlin:TL21  0 N__32 Layer="MET2" W=29.6 um L=10 um 
-P15ED_mtee:Tee3  N__28 N__15 N__29 Layer="Double_Metal" W1=12 um W2=12 um W3=30 um 
-P15ED_mlin:TL22  N__22 N__35 Layer="MET1" W=12 um L=10 um 
-P15ED_mlin:TL23  0 N__27 Layer="MET2" W=11.4 um L=10 um 
-P15ED_mtee:Tee4  N__23 N__33 N__35 Layer="Double_Metal" W1=12 um W2=12 um W3=30 um 
-cgt12:cmb12_1  N__32 N__36 w=80 um l=80 um ta=temp 
-cgt12:cmb12_2  N__27 N__22 w=12 um l=18 um ta=temp 
-P15ED_mlin:TL24  N__34 N__30 Layer="MET2" W=39.6 um L=10 um 
-P15ED_mlin:TL25  N__31 0 Layer="MET1" W=40 um L=10 um 
-cgt12:cmb12_3  N__30 N__31 w=40 um l=9 um ta=temp 
-P15ED_mlin:TL26  N__41 N__40 Layer="MET2" W=79.6 um L=10 um 
-P15ED_mlin:TL27  N__38 0 Layer="MET1" W=80 um L=10 um 
-cgt12:cmb12_4  N__40 N__38 w=80 um l=80 um ta=temp 
-rt:rt2  N__34 N__16 w=40 um l=5 um ta=temp 
-P15ED_mtee:Tee5  N__20 N__46 N__16 Layer="Double_Metal" W1=12 um W2=12 um W3=40 um 
-P15ED_mtee:Tee6  N__43 N__45 N__41 Layer="Double_Metal" W1=12 um W2=12 um W3=80 um 
+V_Source:SRC1  N__4 0 Type="V_DC" Vdc=-0.6 V SaveCurrent=1 
+V_Source:SRC2  N__12 0 Type="V_DC" Vdc=5 V SaveCurrent=1 
+Port:TermG2  N__2 0 Num=2 Z=50 Ohm Noise=yes 
+Port:TermG1  N__0 0 Num=1 Z=50 Ohm Noise=yes 
+P15ED_DPA5V_eehemt:pa5v1  N__14 N__5 N__9 lg=0.15 um wg=75 um nf=2 ta=temp 
+FirstStageLayout:X1  N__0 N__2 N__4 N__12 N__5 N__14 N__9 N__9 lin=220 um 

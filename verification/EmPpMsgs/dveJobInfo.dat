@@ -1,5 +1,5 @@
 jobName=EmPpMsgs
 jobType=emprep
-designName=MultiPA_lib:FirstStage_ForLayout:layout
+designName=MultiPA_lib:FirstStageLayout:layout_hpeesofsim
 ruleFilePath=
 addInfo="EM preprocessor messages displayed as DRC errors"

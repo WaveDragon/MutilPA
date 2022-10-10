@@ -3,26 +3,24 @@ hpeesofsim (*) 550.shp Jul 24 2021, MINT version 5
     (64-bit windows built: Sat Jul 24, 2021 16:09:49 +0000)
 
 
-***** Simulation started at Mon Oct 10 10:19:59 2022
+***** Simulation started at Mon Oct 10 15:58:32 2022
       Running on host: "DESKTOP-G5VPQET"
       In Directory: "E:\Desktop\MultiPA_wrk\data"
-      Process ID: 23004
+      Process ID: 16092
 
 Processing VAMS source 'C:/Users/admin/ADS/Sanan_P15ED11_v102/circuit/models/_v1.1/curtice/switch_v1p0.vax'
  compiled source cache is valid
-Processing VAMS source 'C:/Users/admin/ADS/Sanan_P15ED11_v102/circuit/models/_v1.1/curtice/switch_v1p0.vax'
- compiled source cache is valid
-Warning detected by hpeesofsim in topology check during circuit set up.
-    Number of nodes with only one device attached (topology corrected): 2
-
 Pt DC convergence is used.
+Warning detected by hpeesofsim during TRAN analysis `SP1'.
+    COMPONENT `X1.em_data':
+       Simulator uses frequency lower than frequency range of model. The S-parameters are extrapolated.
+Warning detected by hpeesofsim during TRAN analysis `SP1'.
+    COMPONENT `X1.em_data':
+       S-parameter passivity is enforced.
 
 SP SP1[1] <MultiPA_lib:cell_3:schematic>   freq=(25 GHz->35 GHz)
-Warning detected by hpeesofsim during SP analysis 'SP1'.
-    UserValue(6.666667) > MaxRecommendValue(5.000000) for 'Wlargest/Wsmallest' in `X1.Tee6.Tee1'
-
 
 
 Resource usage:
-  Total stopwatch time     =     1.02 seconds.
+  Total stopwatch time     =     0.63 seconds.
 
