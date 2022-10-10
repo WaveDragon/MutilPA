@@ -1,5 +1,5 @@
 INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
 INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
-INCLUDE $HOME/ADS/Sanan_P15ED11_v102/lib.defs
+INCLUDE D:/Desktop/P15ED11/P15ED11-SDK-001-ATT01_SANAN-IC_P15ED11_Design_Kit_1.0.3/ADS_PDK/Sanan_P15ED11_v102/lib.defs
 DEFINE MultiPA_lib MultiPA_lib
 ASSIGN MultiPA_lib libMode shared
