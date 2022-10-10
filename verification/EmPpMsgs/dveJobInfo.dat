@@ -1,0 +1,5 @@
+jobName=EmPpMsgs
+jobType=emprep
+designName=MultiPA_lib:FirstStage_ForLayout:layout
+ruleFilePath=
+addInfo="EM preprocessor messages displayed as DRC errors"

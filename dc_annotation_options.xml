@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dc_annotation_options>
+ <options view="schematic" ToggleVoltage="true" library="MultiPA_lib" cell="FirstStage_NO1"/>
+ <options view="schematic" ToggleVoltage="true" library="MultiPA_lib" cell="HB1Tone_LoadPull"/>
+ <options view="schematic" ToggleVoltage="true" library="MultiPA_lib" cell="OutMatch"/>
+ <options view="schematic" ToggleVoltage="true" library="MultiPA_lib" cell="HB1Tone_SourcePull"/>
+ <options view="schematic" ToggleVoltage="true" library="MultiPA_lib" cell="SecondStage_NO1"/>
+ <options view="schematic" ToggleVoltage="true" library="MultiPA_lib" cell="FirstStage_NO3"/>
+</dc_annotation_options>

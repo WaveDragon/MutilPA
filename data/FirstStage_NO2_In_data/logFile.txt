@@ -1,0 +1,694 @@
+
+hpeesofsim (*) 550.shp Jul 24 2021, MINT version 5
+    (64-bit windows built: Sat Jul 24, 2021 16:09:49 +0000)
+
+
+***** Simulation started at Wed Sep 28 16:15:57 2022
+      Running on host: "DESKTOP-G5VPQET"
+      In Directory: "E:\Desktop\MultiPA_wrk\data"
+      Process ID: 8764
+
+Processing VAMS source 'C:/Users/admin/ADS/Sanan_P15ED11_v102/circuit/models/_v1.1/curtice/switch_v1p0.vax'
+ compiled source cache is valid
+Warning detected by hpeesofsim in topology check during circuit set up.
+    Number of nodes with only one device attached (topology corrected): 1
+
+
+OPTIM Optim1[1] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=(0->1000)
+
+SP Optim1[1].SP1[0] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=0  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #0:
+  CurrentEF: 35.9014830603859
+  Optimization variables:
+    Cg1 = 49.9903
+    Cg2 = 403.381e-03
+    lg1 = 141.729
+    lg2 = 799.998
+    lg3 = 179.815
+    lin = 299.219
+    lin1 = 296.65
+    lin2 = 256.189
+
+SP Optim1[1].SP1[1] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=1  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #1:
+  CurrentEF: 7.78385181636257
+  Optimization variables:
+    Cg1 = 49.99030004675519
+    Cg2 = 603.799631305774e-03
+    lg1 = 141.7290041986039
+    lg2 = 799.9980103269168
+    lg3 = 179.8149999995113
+    lin = 301.9423695554652
+    lin1 = 296.6441816121218
+    lin2 = 256.0459584499977
+
+SP Optim1[1].SP1[2] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=2  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #2:
+  CurrentEF: 2.94319777837849
+  Optimization variables:
+    Cg1 = 49.99030006398307
+    Cg2 = 665.2854828711675e-03
+    lg1 = 141.729006245161
+    lg2 = 799.998013128161
+    lg3 = 179.8148833571439
+    lin = 279.8176261569702
+    lin1 = 296.6180427836408
+    lin2 = 256.3039151583716
+
+SP Optim1[1].SP1[3] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=3  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #3:
+  CurrentEF: 1.57750969852475
+  Optimization variables:
+    Cg1 = 49.9902909657598
+    Cg2 = 732.9049827700643e-03
+    lg1 = 141.7286172295361
+    lg2 = 799.9946292043006
+    lg3 = 179.5965864722892
+    lin = 283.5815086005357
+    lin1 = 285.7623878651813
+    lin2 = 299.1035039332911
+
+SP Optim1[1].SP1[4] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=4  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #4:
+  CurrentEF: 0.897492128839838
+  Optimization variables:
+    Cg1 = 49.99027810191036
+    Cg2 = 833.9226200495403e-03
+    lg1 = 141.7204243670203
+    lg2 = 799.990015844052
+    lg3 = 180.9090666053393
+    lin = 273.0216799822088
+    lin1 = 221.8253670361943
+    lin2 = 288.0618556943376
+
+SP Optim1[1].SP1[5] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=5  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #5:
+  CurrentEF: 0.852198282356775
+  Optimization variables:
+    Cg1 = 49.99027791670238
+    Cg2 = 844.6787680642764e-03
+    lg1 = 141.7198629341889
+    lg2 = 799.9908717287029
+    lg3 = 181.0211306432205
+    lin = 273.697186844571
+    lin1 = 221.3753735077491
+    lin2 = 276.9409753861732
+
+SP Optim1[1].SP1[6] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=6  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #6:
+  CurrentEF: 0.552542227144955
+  Optimization variables:
+    Cg1 = 49.99027251293478
+    Cg2 = 1.282856515388011
+    lg1 = 141.7050249331449
+    lg2 = 799.9958577300333
+    lg3 = 181.9479631065341
+    lin = 249.8556413285966
+    lin1 = 278.1913241875996
+    lin2 = 27.81782883442316
+
+SP Optim1[1].SP1[7] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=7  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #7:
+  CurrentEF: 0.551566821550213
+  Optimization variables:
+    Cg1 = 49.9902723967999
+    Cg2 = 1.293843042335446
+    lg1 = 141.7046673365965
+    lg2 = 799.9959290169649
+    lg3 = 181.9720477222601
+    lin = 249.3646373732709
+    lin1 = 278.9017050830939
+    lin2 = 27.50489003124041
+
+SP Optim1[1].SP1[8] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=8  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #8:
+  CurrentEF: 0.523416183444906
+  Optimization variables:
+    Cg1 = 49.99027301160962
+    Cg2 = 1.403013866488438
+    lg1 = 141.7006274691335
+    lg2 = 799.9960208961191
+    lg3 = 182.2943823018734
+    lin = 247.2674433485897
+    lin1 = 280.3492403532138
+    lin2 = 66.20764238167668
+
+SP Optim1[1].SP1[9] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=9  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #9:
+  CurrentEF: 0.431494295565896
+  Optimization variables:
+    Cg1 = 49.99027830851449
+    Cg2 = 2.128399360050992
+    lg1 = 141.6764808561757
+    lg2 = 799.9959535734724
+    lg3 = 184.1452880722681
+    lin = 237.4277550150225
+    lin1 = 283.0267475499778
+    lin2 = 60.76778622555516
+
+SP Optim1[1].SP1[10] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=10  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #10:
+  CurrentEF: 0.421102525133042
+  Optimization variables:
+    Cg1 = 49.99027823722365
+    Cg2 = 2.066736009869337
+    lg1 = 141.6782109545854
+    lg2 = 799.9958777447988
+    lg3 = 184.0281614325231
+    lin = 238.5951597901303
+    lin1 = 281.710964558918
+    lin2 = 97.25305538960589
+
+SP Optim1[1].SP1[11] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=11  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #11:
+  CurrentEF: 0.375333889137517
+  Optimization variables:
+    Cg1 = 49.99027967694714
+    Cg2 = 2.046146962141377
+    lg1 = 141.6774937349722
+    lg2 = 799.9954336379404
+    lg3 = 183.9707968404828
+    lin = 240.7150690159293
+    lin1 = 276.0009743129682
+    lin2 = 95.95837876874482
+
+SP Optim1[1].SP1[12] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=12  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #12:
+  CurrentEF: 0.375031638567603
+  Optimization variables:
+    Cg1 = 49.9902798219841
+    Cg2 = 2.05969764824433
+    lg1 = 141.6770379493026
+    lg2 = 799.995421320303
+    lg3 = 184.0159523504777
+    lin = 240.6015793456478
+    lin1 = 275.7623323086207
+    lin2 = 85.87131227492627
+
+SP Optim1[1].SP1[13] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=13  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #13:
+  CurrentEF: 0.373082986677161
+  Optimization variables:
+    Cg1 = 49.99027984415088
+    Cg2 = 2.082846993831519
+    lg1 = 143.0962361105655
+    lg2 = 799.9954201350338
+    lg3 = 182.181495588696
+    lin = 240.5757313354258
+    lin1 = 272.9716398224118
+    lin2 = 84.94729443111116
+
+SP Optim1[1].SP1[14] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=14  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #14:
+  CurrentEF: 0.372218378149053
+  Optimization variables:
+    Cg1 = 49.99027984429085
+    Cg2 = 2.083672167068876
+    lg1 = 143.0962361290987
+    lg2 = 799.9954201662341
+    lg3 = 182.181495588696
+    lin = 240.3083523723871
+    lin1 = 272.9710309879069
+    lin2 = 84.94945555076855
+
+SP Optim1[1].SP1[15] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=15  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #15:
+  CurrentEF: 0.351349164770765
+  Optimization variables:
+    Cg1 = 49.99027988474352
+    Cg2 = 2.464284614683862
+    lg1 = 143.0962412003114
+    lg2 = 799.9954313801603
+    lg3 = 182.1814943567093
+    lin = 237.2498980273514
+    lin1 = 272.9006110162347
+    lin2 = 85.27615924490921
+
+SP Optim1[1].SP1[16] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=16  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #16:
+  CurrentEF: 0.341833784569299
+  Optimization variables:
+    Cg1 = 49.99028020493614
+    Cg2 = 2.670473741360452
+    lg1 = 143.0962937782611
+    lg2 = 799.995464849208
+    lg3 = 182.174599933842
+    lin = 237.3683577192
+    lin1 = 272.1853328245926
+    lin2 = 108.316121050383
+
+SP Optim1[1].SP1[17] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=17  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #17:
+  CurrentEF: 0.324952167551333
+  Optimization variables:
+    Cg1 = 49.99028064460925
+    Cg2 = 3.134864225481778
+    lg1 = 143.0963651699007
+    lg2 = 799.9955173100949
+    lg3 = 182.1589286715135
+    lin = 235.0860712162283
+    lin1 = 272.284940611559
+    lin2 = 150.5169669765345
+
+SP Optim1[1].SP1[18] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=18  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #18:
+  CurrentEF: 0.317055895092986
+  Optimization variables:
+    Cg1 = 49.9902811556064
+    Cg2 = 3.366485531251904
+    lg1 = 143.0964527768976
+    lg2 = 799.9955760096772
+    lg3 = 182.1457021828528
+    lin = 234.8095026044649
+    lin1 = 274.0043559801398
+    lin2 = 199.7529248564207
+
+SP Optim1[1].SP1[19] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=19  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #19:
+  CurrentEF: 0.308616259205683
+  Optimization variables:
+    Cg1 = 49.99028143344975
+    Cg2 = 3.097871792359684
+    lg1 = 143.0965050456167
+    lg2 = 799.9956070867008
+    lg3 = 182.1405991016815
+    lin = 236.9135744865694
+    lin1 = 278.0459212125143
+    lin2 = 220.3825033142564
+
+SP Optim1[1].SP1[20] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=20  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #20:
+  CurrentEF: 0.302077554646018
+  Optimization variables:
+    Cg1 = 49.99028165816851
+    Cg2 = 2.920278649910879
+    lg1 = 143.0965447495194
+    lg2 = 799.9956451321929
+    lg3 = 182.1484928202378
+    lin = 237.2380077833113
+    lin1 = 286.2968869747336
+    lin2 = 230.0032431237411
+
+SP Optim1[1].SP1[21] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=21  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #21:
+  CurrentEF: 0.300532448460835
+  Optimization variables:
+    Cg1 = 49.99028215253424
+    Cg2 = 2.94591137289804
+    lg1 = 143.0966363950702
+    lg2 = 799.9957061611949
+    lg3 = 182.150508407392
+    lin = 237.5853675949437
+    lin1 = 291.2075975248803
+    lin2 = 256.092223633553
+
+SP Optim1[1].SP1[22] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=22  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #22:
+  CurrentEF: 0.299903880171665
+  Optimization variables:
+    Cg1 = 49.99028240834945
+    Cg2 = 2.86056616820352
+    lg1 = 143.0966961688227
+    lg2 = 799.9957394066829
+    lg3 = 182.1577796628413
+    lin = 238.0261651856923
+    lin1 = 294.6773119580757
+    lin2 = 259.7990409296601
+
+SP Optim1[1].SP1[23] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=23  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #23:
+  CurrentEF: 0.298181388083791
+  Optimization variables:
+    Cg1 = 49.99028328878308
+    Cg2 = 2.948061441526594
+    lg1 = 143.096903466217
+    lg2 = 799.9958375707226
+    lg3 = 182.1617180912828
+    lin = 237.8350809731094
+    lin1 = 299.5726279421177
+    lin2 = 261.633948054474
+
+SP Optim1[1].SP1[24] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=24  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #24:
+  CurrentEF: 0.298180965386897
+  Optimization variables:
+    Cg1 = 49.9903
+    Cg2 = 2.94806
+    lg1 = 143.097
+    lg2 = 799.996
+    lg3 = 182.162
+    lin = 237.835
+    lin1 = 299.573
+    lin2 = 261.634
+
+SP Optim1[1].SP1[25] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=25  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #25:
+  CurrentEF: 0.297949899130082
+  Optimization variables:
+    Cg1 = 49.99030009985892
+    Cg2 = 2.947772840452117
+    lg1 = 143.0970000049654
+    lg2 = 799.9960324236458
+    lg3 = 182.162
+    lin = 237.6995403532117
+    lin1 = 299.5730291401076
+    lin2 = 261.633858713784
+
+SP Optim1[1].SP1[26] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=26  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #26:
+  CurrentEF: 0.297792838210539
+  Optimization variables:
+    Cg1 = 49.99082251017188
+    Cg2 = 2.987806357454578
+    lg1 = 143.0971210021276
+    lg2 = 803.4385163650642
+    lg3 = 182.1669399083833
+    lin = 237.4764750811375
+    lin1 = 299.6874261555928
+    lin2 = 259.5612786733326
+
+SP Optim1[1].SP1[27] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=27  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #27:
+  CurrentEF: 0.297188716141787
+  Optimization variables:
+    Cg1 = 49.9939152859016
+    Cg2 = 3.019080164058036
+    lg1 = 143.0977631603456
+    lg2 = 823.1193819364734
+    lg3 = 182.1924061060646
+    lin = 237.1225053569888
+    lin1 = 299.9999827167287
+    lin2 = 246.2545590989361
+
+SP Optim1[1].SP1[28] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=28  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #28:
+  CurrentEF: 0.297146628436939
+  Optimization variables:
+    Cg1 = 49.99420238480236
+    Cg2 = 2.996235981372268
+    lg1 = 143.097817302172
+    lg2 = 824.7827331486551
+    lg3 = 182.1944647023497
+    lin = 237.203054291535
+    lin1 = 299.9995772948934
+    lin2 = 245.6086925911308
+
+SP Optim1[1].SP1[29] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=29  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #29:
+  CurrentEF: 0.297131961956937
+  Optimization variables:
+    Cg1 = 50.49336728478269
+    Cg2 = 2.991534298919738
+    lg1 = 144.5313225684692
+    lg2 = 834.4818883770965
+    lg3 = 182.1952421009815
+    lin = 237.2137395185076
+    lin1 = 299.9989593085886
+    lin2 = 245.3279083663506
+
+SP Optim1[1].SP1[30] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=30  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #30:
+  CurrentEF: 0.297118319392112
+  Optimization variables:
+    Cg1 = 50.99756666458327
+    Cg2 = 2.987108050675566
+    lg1 = 145.9791662347386
+    lg2 = 845.0711854016573
+    lg3 = 182.1957839719956
+    lin = 237.2202283938375
+    lin1 = 299.9985063358683
+    lin2 = 245.2303529841843
+
+SP Optim1[1].SP1[31] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=31  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #31:
+  CurrentEF: 0.29709946773801
+  Optimization variables:
+    Cg1 = 51.5098762571277
+    Cg2 = 2.979641710787746
+    lg1 = 147.441644573729
+    lg2 = 871.3286950795432
+    lg3 = 182.19697924776
+    lin = 237.2185234119269
+    lin1 = 299.9966710943024
+    lin2 = 245.3592223752312
+
+SP Optim1[1].SP1[32] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=32  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #32:
+  CurrentEF: 0.297067939303942
+  Optimization variables:
+    Cg1 = 52.02827488080507
+    Cg2 = 2.986572388858325
+    lg1 = 148.9187825613267
+    lg2 = 902.7522741428552
+    lg3 = 182.197214398372
+    lin = 237.2081801695888
+    lin1 = 299.9934926444733
+    lin2 = 245.5488518860643
+
+SP Optim1[1].SP1[33] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=33  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #33:
+  CurrentEF: 0.297057346202819
+  Optimization variables:
+    Cg1 = 52.55233268564603
+    Cg2 = 2.980586817355845
+    lg1 = 150.4107374689927
+    lg2 = 937.2831080911709
+    lg3 = 182.1982743787985
+    lin = 237.2199400929952
+    lin1 = 299.9888898872701
+    lin2 = 245.8062761195219
+
+SP Optim1[1].SP1[34] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=34  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #34:
+  CurrentEF: 0.297056762810736
+  Optimization variables:
+    Cg1 = 53.07764512695216
+    Cg2 = 2.976496990519403
+    lg1 = 151.9174267791796
+    lg2 = 944.1356279097505
+    lg3 = 182.1987930047782
+    lin = 237.2279710294663
+    lin1 = 299.9870005670468
+    lin2 = 245.8252784586024
+
+SP Optim1[1].SP1[35] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=35  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #35:
+  CurrentEF: 0.297056710761105
+  Optimization variables:
+    Cg1 = 53.60644259275828
+    Cg2 = 2.976767047268769
+    lg1 = 153.4391007763318
+    lg2 = 943.5906487634377
+    lg3 = 182.1987903762634
+    lin = 237.2277876169943
+    lin1 = 299.986957699289
+    lin2 = 245.7996231539533
+
+SP Optim1[1].SP1[36] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=36  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #36:
+  CurrentEF: 0.297056278684245
+  Optimization variables:
+    Cg1 = 54.13778312400794
+    Cg2 = 2.977367576082372
+    lg1 = 154.9758399656218
+    lg2 = 941.8556765083367
+    lg3 = 182.1984674003757
+    lin = 237.2258137475688
+    lin1 = 299.988664103041
+    lin2 = 245.9299873612964
+
+SP Optim1[1].SP1[37] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=37  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #37:
+  CurrentEF: 0.297056163391479
+  Optimization variables:
+    Cg1 = 54.67469518417916
+    Cg2 = 2.977848441912574
+    lg1 = 156.5279725081147
+    lg2 = 940.4499196194428
+    lg3 = 182.1982089769686
+    lin = 237.2242460256129
+    lin1 = 299.9899483685967
+    lin2 = 246.0334864548689
+
+SP Optim1[1].SP1[38] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=38  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #38:
+  CurrentEF: 0.297056171859733
+  Optimization variables:
+    Cg1 = 54.67469518417916
+    Cg2 = 2.97785
+    lg1 = 156.528
+    lg2 = 940.4499196194428
+    lg3 = 182.198
+    lin = 237.224
+    lin1 = 299.99
+    lin2 = 246.033
+
+SP Optim1[1].SP1[39] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=39  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #39:
+  CurrentEF: 0.296943132397008
+  Optimization variables:
+    Cg1 = 54.67470103720636
+    Cg2 = 2.97796793057912
+    lg1 = 156.5280005161081
+    lg2 = 940.4504887022817
+    lg3 = 182.1979987756392
+    lin = 237.296310989932
+    lin1 = 300.516644469018
+    lin2 = 246.0325488500027
+
+SP Optim1[1].SP1[40] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=40  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #40:
+  CurrentEF: 0.177910553470806
+  Optimization variables:
+    Cg1 = 54.67535639395253
+    Cg2 = 2.955979480783166
+    lg1 = 156.5283187540986
+    lg2 = 940.5463915400497
+    lg3 = 182.197266211594
+    lin = 236.1263251673824
+    lin1 = 635.0629273763905
+    lin2 = 245.9220349816695
+
+SP Optim1[1].SP1[41] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=41  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #41:
+  CurrentEF: 0.176034147293598
+  Optimization variables:
+    Cg1 = 54.67538318748842
+    Cg2 = 2.965158489398815
+    lg1 = 156.5283222826901
+    lg2 = 940.5744272418764
+    lg3 = 182.197284802915
+    lin = 236.0667499546048
+    lin1 = 645.3310488507252
+    lin2 = 245.5262318491179
+
+SP Optim1[1].SP1[42] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=42  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #42:
+  CurrentEF: 0.0739511564480131
+  Optimization variables:
+    Cg1 = 54.67581180741373
+    Cg2 = 3.238375250466544
+    lg1 = 156.5279028984225
+    lg2 = 941.3198807265594
+    lg3 = 182.1990767210565
+    lin = 235.5699389183987
+    lin1 = 704.03337409902
+    lin2 = 217.0364452728349
+
+SP Optim1[1].SP1[43] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=43  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #43:
+  CurrentEF: 0.0633172858723319
+  Optimization variables:
+    Cg1 = 54.67589580846484
+    Cg2 = 3.656240245407929
+    lg1 = 156.5278255279672
+    lg2 = 942.1444733341929
+    lg3 = 182.1996886003576
+    lin = 234.2951159469501
+    lin1 = 701.6294328543147
+    lin2 = 217.1133131559368
+
+SP Optim1[1].SP1[44] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=44  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #44:
+  CurrentEF: 0.0293601322236203
+  Optimization variables:
+    Cg1 = 54.67622016014401
+    Cg2 = 4.191376478443557
+    lg1 = 156.5274746791021
+    lg2 = 942.7023587246665
+    lg3 = 182.2023727454074
+    lin = 233.8662870122128
+    lin1 = 716.4419723528991
+    lin2 = 201.9375040566918
+
+SP Optim1[1].SP1[45] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=45  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #45:
+  CurrentEF: 0.0217115241557816
+  Optimization variables:
+    Cg1 = 54.67625001230432
+    Cg2 = 4.125133858649742
+    lg1 = 156.5273822323446
+    lg2 = 942.3013079017059
+    lg3 = 182.2031942700002
+    lin = 234.8008558222275
+    lin1 = 711.3458741483545
+    lin2 = 205.1906195463323
+
+SP Optim1[1].SP1[46] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=46  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #46:
+  CurrentEF: 0.00233494081373175
+  Optimization variables:
+    Cg1 = 54.67667244800036
+    Cg2 = 3.999462148359099
+    lg1 = 156.5261338057274
+    lg2 = 940.5904130112153
+    lg3 = 182.2084198023163
+    lin = 239.4575032347915
+    lin1 = 720.0682112527602
+    lin2 = 229.5453935860714
+
+SP Optim1[1].SP1[47] <MultiPA_lib:FirstStage_NO2_In:schematic>  optIter=47  freq=(25 GHz->35 GHz)
+
+Iteration/Trial #47:
+  CurrentEF: 0
+  Optimization variables:
+    Cg1 = 54.67728808268029
+    Cg2 = 5.220387697947774
+    lg1 = 156.5254322199783
+    lg2 = 941.9340308907017
+    lg3 = 182.2122849858567
+    lin = 237.0540025916428
+    lin1 = 756.0887070697402
+    lin2 = 203.9434455736989
+Optim1[1] reached the goals. 
+
+Resource usage:
+  Total stopwatch time     =    43.75 seconds.
+

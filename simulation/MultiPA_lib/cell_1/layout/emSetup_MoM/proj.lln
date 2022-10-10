@@ -1,0 +1,28 @@
+BEGIN_SUBSTRATE
+7 __SubstrateLayer1
+6 __SubstrateLayer2
+5 __SubstrateLayer3
+4 __SubstrateLayer4
+3 __ExpandLayer__SubstrateLayer5_16
+2 __ExpandLayer__SubstrateLayer5_19
+1 __SubstrateLayer5
+0 __TOP
+END_SUBSTRATE
+BEGIN_MASK
+157 EM_M2
+156 EM_RE
+155 EM_IS
+154 EM_P1
+153 VM2
+30 TV
+12 M2
+11 P1
+10 V1
+9 M1
+8 RT
+7 V0
+6 MB
+3 RE
+2 OC
+1 IS
+END_MASK

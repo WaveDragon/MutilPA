@@ -1,0 +1,22 @@
+
+hpeesofsim (*) 550.shp Jul 24 2021, MINT version 5
+    (64-bit windows built: Sat Jul 24, 2021 16:09:49 +0000)
+
+
+***** Simulation started at Wed Sep 28 11:02:32 2022
+      Running on host: "DESKTOP-G5VPQET"
+      In Directory: "E:\Desktop\MultiPA_wrk\data"
+      Process ID: 21812
+
+Processing VAMS source 'C:/Users/admin/ADS/Sanan_P15ED11_v102/circuit/models/_v1.1/curtice/switch_v1p0.vax'
+ compiled source cache is valid
+Warning detected by hpeesofsim in topology check during circuit set up.
+    Number of nodes with only one device attached (topology corrected): 1
+
+
+SP SP1[1] <MultiPA_lib:OutPutMatch1:schematic>   freq=(25 GHz->35 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     0.75 seconds.
+

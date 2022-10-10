@@ -1,0 +1,92 @@
+==============================================================================
+
+                  ------ MOMENTUM STATISTICS (MW mode) ------
+
+              Momentum MomEngine_64 2022.00.265 (*) built: Jul  2 2021
+                           Wed Sep 28 18:05:12 2022
+
+==============================================================================
+
+
+------------------------------------------------------------------------------
+MESH
+------------------------------------------------------------------------------
+ Frequency          : 35 GHz
+
+ Rectangular cells  : 85
+ Quadrangular cells : 232
+ Triangular cells   : 220
+ Via cells          : 184
+
+ Edge currents      : 1196
+
+------------------------------------------------------------------------------
+SOLVER                        USER TIME      ELAPSED TIME      MEMORY         
+PROCESSES                      (h:m:s)          (h:m:s)         (MB)          
+------------------------------------------------------------------------------
+
+SIMULATION SET-UP
+-----------------
+ Initialization           |     0: 0: 0   |     0: 0: 1   |     49.81   
+ Ports analysis           |     0: 0: 0   |     0: 0: 0   |      0.06   
+ Mesh processing          |     0: 0: 0   |     0: 0: 0   |     39.52   
+
+ Matrix size : 1717
+ Reduced matrix size : 708
+ Estimated process size is below 256.00 MB
+
+ Simulation temperature : 298.15 K
+
+1. SIMULATION FREQUENCY = 25 GHz 
+-------------------------
+ Green functions          |     0: 0: 2   |     0: 0: 0   |      2.54   
+ Basis creation           |     0: 0: 0   |     0: 0: 0   |     20.10   
+ Matrix load              |     0: 0:19   |     0: 0: 2   |     49.80   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      3.82   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.02   
+
+2. SIMULATION FREQUENCY = 35 GHz 
+-------------------------
+ Green functions          |     0: 0: 4   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0:19   |     0: 0: 2   |     27.69   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      1.07   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Adaptive sampling        |     0: 0: 2   |     0: 0: 0   |      0.00   
+
+3. SIMULATION FREQUENCY = 31.6667 GHz 
+-------------------------
+ Green functions          |     0: 0: 2   |     0: 0: 1   |      0.00   
+ Matrix load              |     0: 0:19   |     0: 0: 1   |      2.07   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Adaptive sampling        |     0: 0: 2   |     0: 0: 1   |      0.00   
+
+4. SIMULATION FREQUENCY = 28.3333 GHz 
+-------------------------
+ Green functions          |     0: 0: 2   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0:19   |     0: 0: 2   |      0.00   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Adaptive sampling        |     0: 0: 1   |     0: 0: 0   |      0.00   
+
+5. SIMULATION FREQUENCY = 26.1111 GHz 
+-------------------------
+ Green functions          |     0: 0: 3   |     0: 0: 0   |      0.00   
+ Matrix load              |     0: 0:19   |     0: 0: 2   |      0.29   
+ Matrix solve             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ S parameters             |     0: 0: 0   |     0: 0: 0   |      0.00   
+ Adaptive sampling        |     0: 0: 1   |     0: 0: 0   |      0.00   
+
+------------------------------------------------------------------------------
+TOTALS
+------------------------------------------------------------------------------
+ Nr of Frequencies   : 5 
+
+ Physical memory :   196.80 MB
+ Virtual memory  :   295.46 MB
+ Page faults     :       70959
+ User Time       :    0h 1m55s
+ Elapsed Time    :    0h 0m12s
+
+==============================================================================
+

@@ -1,0 +1,3406 @@
+
+hpeesofsim (*) 550.shp Jul 24 2021, MINT version 5
+    (64-bit windows built: Sat Jul 24, 2021 16:09:49 +0000)
+
+
+***** Simulation started at Sat Oct  8 14:50:38 2022
+      Running on host: "DESKTOP-G5VPQET"
+      In Directory: "E:\Desktop\MultiPA_wrk\data"
+      Process ID: 4808
+
+Processing VAMS source 'C:/Users/admin/ADS/Sanan_P15ED11_v102/circuit/models/_v1.1/curtice/switch_v1p0.vax'
+ compiled source cache is valid
+
+CT Sweep1[1] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>   VGS=(-2->0)
+
+DC Sweep1[1].DC1[1/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2  VDS=(0->5)
+.....................................................................................................
+
+CT Sweep1[1].Sweep2[1/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2  VDS=(0->5)
+
+AC Sweep1[1].Sweep2[1/11].AC1[1/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=0  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[2/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=50e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[3/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=100e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[4/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=150e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[5/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=200e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[6/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=250e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[7/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=300e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[8/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=350e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[9/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=400e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[10/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=450e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[11/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=500e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[12/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=550e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[13/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=600e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[14/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=650e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[15/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=700e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[16/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=750e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[17/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=800e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[18/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=850e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[19/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=900e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[20/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=950e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[21/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[22/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[23/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[24/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[25/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[26/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[27/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[28/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[29/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[30/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[31/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[32/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[33/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[34/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[35/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[36/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[37/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[38/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[39/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[40/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=1.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[41/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[42/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[43/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[44/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[45/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[46/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[47/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[48/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[49/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[50/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[51/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[52/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[53/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[54/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[55/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[56/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[57/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[58/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[59/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[60/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=2.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[61/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[62/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[63/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[64/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[65/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[66/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[67/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[68/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[69/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[70/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[71/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[72/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[73/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[74/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[75/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[76/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[77/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[78/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[79/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[80/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=3.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[81/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[82/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[83/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[84/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[85/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[86/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[87/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[88/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[89/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[90/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[91/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[92/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[93/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[94/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[95/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[96/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[97/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[98/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[99/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[100/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=4.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[1/11].AC1[101/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-2 VDS=5  freq=29 GHz
+
+
+DC Sweep1[1].DC1[2/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8  VDS=(0->5)
+.....................................................................................................
+
+CT Sweep1[1].Sweep2[2/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8  VDS=(0->5)
+
+AC Sweep1[1].Sweep2[2/11].AC1[1/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=0  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[2/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=50e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[3/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=100e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[4/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=150e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[5/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=200e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[6/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=250e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[7/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=300e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[8/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=350e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[9/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=400e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[10/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=450e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[11/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=500e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[12/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=550e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[13/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=600e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[14/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=650e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[15/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=700e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[16/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=750e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[17/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=800e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[18/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=850e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[19/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=900e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[20/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=950e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[21/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[22/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[23/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[24/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[25/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[26/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[27/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[28/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[29/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[30/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[31/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[32/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[33/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[34/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[35/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[36/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[37/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[38/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[39/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[40/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=1.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[41/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[42/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[43/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[44/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[45/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[46/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[47/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[48/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[49/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[50/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[51/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[52/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[53/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[54/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[55/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[56/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[57/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[58/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[59/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[60/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=2.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[61/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[62/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[63/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[64/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[65/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[66/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[67/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[68/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[69/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[70/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[71/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[72/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[73/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[74/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[75/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[76/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[77/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[78/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[79/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[80/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=3.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[81/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[82/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[83/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[84/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[85/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[86/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[87/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[88/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[89/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[90/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[91/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[92/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[93/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[94/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[95/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[96/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[97/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[98/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[99/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[100/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=4.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[2/11].AC1[101/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.8 VDS=5  freq=29 GHz
+
+
+DC Sweep1[1].DC1[3/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6  VDS=(0->5)
+.....................................................................................................
+
+CT Sweep1[1].Sweep2[3/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6  VDS=(0->5)
+
+AC Sweep1[1].Sweep2[3/11].AC1[1/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=0  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[2/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=50e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[3/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=100e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[4/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=150e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[5/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=200e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[6/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=250e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[7/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=300e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[8/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=350e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[9/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=400e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[10/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=450e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[11/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=500e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[12/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=550e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[13/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=600e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[14/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=650e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[15/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=700e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[16/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=750e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[17/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=800e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[18/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=850e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[19/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=900e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[20/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=950e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[21/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[22/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[23/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[24/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[25/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[26/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[27/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[28/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[29/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[30/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[31/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[32/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[33/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[34/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[35/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[36/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[37/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[38/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[39/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[40/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=1.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[41/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[42/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[43/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[44/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[45/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[46/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[47/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[48/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[49/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[50/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[51/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[52/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[53/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[54/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[55/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[56/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[57/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[58/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[59/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[60/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=2.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[61/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[62/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[63/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[64/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[65/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[66/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[67/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[68/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[69/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[70/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[71/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[72/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[73/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[74/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[75/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[76/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[77/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[78/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[79/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[80/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=3.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[81/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[82/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[83/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[84/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[85/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[86/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[87/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[88/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[89/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[90/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[91/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[92/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[93/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[94/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[95/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[96/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[97/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[98/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[99/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[100/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=4.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[3/11].AC1[101/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.6 VDS=5  freq=29 GHz
+
+
+DC Sweep1[1].DC1[4/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4  VDS=(0->5)
+.....................................................................................................
+
+CT Sweep1[1].Sweep2[4/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4  VDS=(0->5)
+
+AC Sweep1[1].Sweep2[4/11].AC1[1/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=0  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[2/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=50e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[3/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=100e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[4/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=150e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[5/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=200e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[6/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=250e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[7/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=300e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[8/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=350e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[9/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=400e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[10/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=450e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[11/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=500e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[12/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=550e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[13/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=600e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[14/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=650e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[15/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=700e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[16/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=750e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[17/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=800e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[18/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=850e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[19/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=900e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[20/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=950e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[21/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[22/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[23/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[24/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[25/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[26/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[27/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[28/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[29/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[30/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[31/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[32/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[33/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[34/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[35/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[36/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[37/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[38/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[39/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[40/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=1.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[41/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[42/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[43/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[44/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[45/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[46/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[47/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[48/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[49/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[50/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[51/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[52/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[53/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[54/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[55/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[56/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[57/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[58/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[59/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[60/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=2.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[61/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[62/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[63/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[64/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[65/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[66/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[67/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[68/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[69/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[70/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[71/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[72/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[73/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[74/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[75/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[76/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[77/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[78/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[79/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[80/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=3.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[81/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[82/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[83/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[84/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[85/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[86/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[87/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[88/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[89/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[90/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[91/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[92/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[93/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[94/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[95/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[96/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[97/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[98/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[99/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[100/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=4.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[4/11].AC1[101/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.4 VDS=5  freq=29 GHz
+
+
+DC Sweep1[1].DC1[5/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2  VDS=(0->5)
+.....................................................................................................
+
+CT Sweep1[1].Sweep2[5/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2  VDS=(0->5)
+
+AC Sweep1[1].Sweep2[5/11].AC1[1/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=0  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[2/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=50e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[3/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=100e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[4/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=150e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[5/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=200e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[6/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=250e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[7/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=300e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[8/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=350e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[9/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=400e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[10/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=450e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[11/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=500e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[12/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=550e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[13/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=600e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[14/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=650e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[15/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=700e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[16/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=750e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[17/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=800e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[18/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=850e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[19/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=900e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[20/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=950e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[21/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[22/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[23/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[24/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[25/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[26/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[27/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[28/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[29/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[30/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[31/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[32/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[33/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[34/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[35/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[36/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[37/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[38/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[39/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[40/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=1.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[41/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[42/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[43/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[44/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[45/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[46/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[47/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[48/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[49/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[50/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[51/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[52/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[53/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[54/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[55/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[56/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[57/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[58/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[59/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[60/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=2.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[61/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[62/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[63/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[64/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[65/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[66/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[67/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[68/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[69/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[70/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[71/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[72/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[73/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[74/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[75/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[76/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[77/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[78/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[79/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[80/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=3.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[81/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[82/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[83/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[84/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[85/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[86/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[87/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[88/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[89/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[90/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[91/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[92/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[93/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[94/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[95/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[96/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[97/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[98/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[99/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[100/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=4.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[5/11].AC1[101/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1.2 VDS=5  freq=29 GHz
+
+
+DC Sweep1[1].DC1[6/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1  VDS=(0->5)
+.....................................................................................................
+
+CT Sweep1[1].Sweep2[6/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1  VDS=(0->5)
+
+AC Sweep1[1].Sweep2[6/11].AC1[1/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=0  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[2/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=50e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[3/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=100e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[4/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=150e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[5/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=200e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[6/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=250e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[7/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=300e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[8/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=350e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[9/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=400e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[10/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=450e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[11/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=500e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[12/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=550e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[13/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=600e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[14/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=650e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[15/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=700e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[16/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=750e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[17/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=800e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[18/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=850e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[19/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=900e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[20/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=950e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[21/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[22/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[23/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[24/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[25/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[26/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[27/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[28/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[29/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[30/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[31/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[32/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[33/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[34/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[35/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[36/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[37/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[38/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[39/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[40/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=1.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[41/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[42/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[43/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[44/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[45/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[46/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[47/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[48/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[49/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[50/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[51/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[52/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[53/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[54/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[55/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[56/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[57/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[58/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[59/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[60/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=2.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[61/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[62/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[63/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[64/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[65/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[66/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[67/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[68/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[69/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[70/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[71/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[72/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[73/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[74/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[75/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[76/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[77/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[78/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[79/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[80/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=3.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[81/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[82/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[83/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[84/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[85/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[86/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[87/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[88/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[89/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[90/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[91/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[92/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[93/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[94/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[95/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[96/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[97/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[98/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[99/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[100/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=4.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[6/11].AC1[101/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-1 VDS=5  freq=29 GHz
+
+
+DC Sweep1[1].DC1[7/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03  VDS=(0->5)
+.....................................................................................................
+
+CT Sweep1[1].Sweep2[7/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03  VDS=(0->5)
+
+AC Sweep1[1].Sweep2[7/11].AC1[1/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=0  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[2/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=50e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[3/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=100e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[4/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=150e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[5/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=200e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[6/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=250e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[7/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=300e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[8/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=350e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[9/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=400e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[10/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=450e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[11/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=500e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[12/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=550e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[13/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=600e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[14/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=650e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[15/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=700e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[16/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=750e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[17/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=800e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[18/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=850e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[19/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=900e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[20/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=950e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[21/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[22/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[23/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[24/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[25/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[26/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[27/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[28/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[29/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[30/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[31/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[32/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[33/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[34/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[35/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[36/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[37/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[38/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[39/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[40/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=1.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[41/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[42/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[43/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[44/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[45/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[46/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[47/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[48/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[49/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[50/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[51/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[52/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[53/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[54/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[55/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[56/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[57/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[58/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[59/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[60/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=2.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[61/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[62/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[63/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[64/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[65/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[66/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[67/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[68/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[69/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[70/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[71/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[72/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[73/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[74/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[75/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[76/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[77/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[78/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[79/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[80/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=3.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[81/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[82/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[83/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[84/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[85/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[86/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[87/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[88/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[89/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[90/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[91/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[92/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[93/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[94/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[95/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[96/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[97/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[98/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[99/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[100/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=4.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[7/11].AC1[101/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-800e-03 VDS=5  freq=29 GHz
+
+
+DC Sweep1[1].DC1[8/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03  VDS=(0->5)
+.....................................................................................................
+
+CT Sweep1[1].Sweep2[8/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03  VDS=(0->5)
+
+AC Sweep1[1].Sweep2[8/11].AC1[1/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=0  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[2/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=50e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[3/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=100e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[4/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=150e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[5/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=200e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[6/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=250e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[7/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=300e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[8/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=350e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[9/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=400e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[10/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=450e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[11/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=500e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[12/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=550e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[13/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=600e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[14/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=650e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[15/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=700e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[16/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=750e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[17/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=800e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[18/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=850e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[19/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=900e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[20/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=950e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[21/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[22/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[23/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[24/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[25/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[26/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[27/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[28/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[29/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[30/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[31/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[32/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[33/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[34/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[35/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[36/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[37/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[38/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[39/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[40/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=1.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[41/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[42/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[43/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[44/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[45/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[46/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[47/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[48/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[49/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[50/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[51/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[52/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[53/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[54/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[55/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[56/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[57/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[58/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[59/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[60/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=2.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[61/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[62/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[63/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[64/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[65/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[66/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[67/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[68/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[69/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[70/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[71/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[72/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[73/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[74/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[75/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[76/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[77/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[78/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[79/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[80/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=3.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[81/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[82/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[83/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[84/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[85/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[86/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[87/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[88/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[89/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[90/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[91/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[92/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[93/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[94/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[95/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[96/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[97/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[98/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[99/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[100/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=4.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[8/11].AC1[101/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-600e-03 VDS=5  freq=29 GHz
+
+
+DC Sweep1[1].DC1[9/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03  VDS=(0->5)
+.....................................................................................................
+
+CT Sweep1[1].Sweep2[9/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03  VDS=(0->5)
+
+AC Sweep1[1].Sweep2[9/11].AC1[1/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=0  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[2/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=50e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[3/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=100e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[4/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=150e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[5/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=200e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[6/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=250e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[7/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=300e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[8/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=350e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[9/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=400e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[10/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=450e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[11/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=500e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[12/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=550e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[13/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=600e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[14/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=650e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[15/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=700e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[16/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=750e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[17/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=800e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[18/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=850e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[19/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=900e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[20/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=950e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[21/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[22/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[23/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[24/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[25/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[26/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[27/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[28/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[29/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[30/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[31/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[32/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[33/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[34/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[35/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[36/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[37/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[38/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[39/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[40/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=1.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[41/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[42/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[43/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[44/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[45/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[46/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[47/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[48/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[49/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[50/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[51/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[52/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[53/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[54/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[55/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[56/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[57/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[58/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[59/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[60/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=2.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[61/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[62/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[63/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[64/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[65/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[66/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[67/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[68/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[69/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[70/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[71/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[72/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[73/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[74/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[75/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[76/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[77/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[78/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[79/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[80/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=3.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[81/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[82/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[83/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[84/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[85/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[86/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[87/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[88/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[89/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[90/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[91/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[92/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[93/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[94/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[95/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[96/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[97/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[98/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[99/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[100/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=4.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[9/11].AC1[101/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-400e-03 VDS=5  freq=29 GHz
+
+
+DC Sweep1[1].DC1[10/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03  VDS=(0->5)
+.....................................................................................................
+
+CT Sweep1[1].Sweep2[10/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03  VDS=(0->5)
+
+AC Sweep1[1].Sweep2[10/11].AC1[1/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=0  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[2/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=50e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[3/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=100e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[4/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=150e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[5/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=200e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[6/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=250e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[7/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=300e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[8/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=350e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[9/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=400e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[10/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=450e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[11/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=500e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[12/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=550e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[13/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=600e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[14/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=650e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[15/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=700e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[16/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=750e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[17/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=800e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[18/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=850e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[19/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=900e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[20/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=950e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[21/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[22/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[23/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[24/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[25/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[26/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[27/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[28/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[29/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[30/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[31/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[32/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[33/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[34/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[35/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[36/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[37/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[38/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[39/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[40/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=1.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[41/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[42/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[43/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[44/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[45/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[46/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[47/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[48/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[49/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[50/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[51/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[52/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[53/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[54/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[55/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[56/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[57/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[58/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[59/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[60/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=2.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[61/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[62/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[63/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[64/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[65/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[66/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[67/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[68/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[69/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[70/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[71/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[72/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[73/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[74/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[75/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[76/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[77/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[78/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[79/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[80/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=3.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[81/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[82/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[83/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[84/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[85/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[86/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[87/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[88/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[89/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[90/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[91/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[92/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[93/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[94/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[95/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[96/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[97/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[98/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[99/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[100/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=4.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[10/11].AC1[101/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=-200e-03 VDS=5  freq=29 GHz
+
+
+DC Sweep1[1].DC1[11/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0  VDS=(0->5)
+.....................................................................................................
+
+CT Sweep1[1].Sweep2[11/11] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0  VDS=(0->5)
+
+AC Sweep1[1].Sweep2[11/11].AC1[1/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=0  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[2/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=50e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[3/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=100e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[4/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=150e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[5/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=200e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[6/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=250e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[7/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=300e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[8/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=350e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[9/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=400e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[10/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=450e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[11/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=500e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[12/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=550e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[13/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=600e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[14/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=650e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[15/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=700e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[16/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=750e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[17/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=800e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[18/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=850e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[19/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=900e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[20/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=950e-03  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[21/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[22/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[23/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[24/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[25/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[26/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[27/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[28/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[29/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[30/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[31/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[32/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[33/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[34/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[35/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[36/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[37/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[38/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[39/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[40/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=1.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[41/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[42/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[43/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[44/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[45/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[46/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[47/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[48/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[49/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[50/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[51/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[52/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[53/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[54/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[55/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[56/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[57/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[58/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[59/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[60/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=2.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[61/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[62/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[63/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[64/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[65/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[66/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[67/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[68/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[69/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[70/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[71/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[72/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[73/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[74/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[75/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[76/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[77/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[78/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[79/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[80/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=3.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[81/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[82/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.05  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[83/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.1  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[84/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.15  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[85/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.2  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[86/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.25  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[87/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.3  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[88/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.35  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[89/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.4  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[90/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.45  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[91/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.5  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[92/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.55  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[93/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.6  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[94/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.65  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[95/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.7  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[96/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.75  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[97/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.8  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[98/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.85  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[99/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.9  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[100/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=4.95  freq=29 GHz
+
+
+AC Sweep1[1].Sweep2[11/11].AC1[101/101] <MultiPA_lib:FET_IV_Gm_PowerCalcs:schematic>  VGS=0 VDS=5  freq=29 GHz
+
+
+Resource usage:
+  Total stopwatch time     =     0.89 seconds.
+
